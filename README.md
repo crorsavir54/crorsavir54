@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crorsavir54
 - 👀 I’m interested in Mobile App Development and Data Science
-- 🌱 I’m currently learning iOS App Development
+<!-- - 🌱 I’m currently learning iOS App Development -->
 - 📫 Reach me at: crorsavir54@gmail.com
 
 <!---
