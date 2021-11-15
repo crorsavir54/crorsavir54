@@ -22,6 +22,11 @@
   <img src="https://github.com/crorsavir54/prepCalendar/blob/main/screenshots/AddEventScreen.png" align="middle" width="24%" />
   <img src="https://github.com/crorsavir54/prepCalendar/blob/main/screenshots/JumpToDateScreen.png" align="middle" width="24%" />
 </p>
+#### [Quarantine Classification](https://github.com/crorsavir54/covid19phclassification)
+<p float="left">
+  <img src="https://github.com/crorsavir54/covid19phclassification/blob/main/screenshots/screen1.png" align="middle" width="24%" />
+  <img src="https://github.com/crorsavir54/covid19phclassification/blob/main/screenshots/screen2.png" align="middle" width="24%" />
+</p>
 
 
 
