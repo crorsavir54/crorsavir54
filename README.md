@@ -5,7 +5,7 @@
 
 ### Apps
 
-#### [Food Menu](https://github.com/crorsavir54/foodmenu)
+### [Food Menu](https://github.com/crorsavir54/foodmenu)
 
 <p float="left">
   <img src="https://github.com/crorsavir54/foodmenu/blob/main/screenshots/LoginScreen.png" align="middle" width="24%" />
@@ -14,7 +14,7 @@
   <img src="https://github.com/crorsavir54/foodmenu/blob/main/screenshots/ManageScreen.png" align="middle" width="24%" />
 </p>
 
-#### [Prepare App](https://github.com/crorsavir54/prepCalendar)
+### [Prepare App](https://github.com/crorsavir54/prepCalendar)
 
 <p float="left">
   <img src="https://github.com/crorsavir54/prepCalendar/blob/main/screenshots/onBoardScreen.png" align="middle" width="24%" />
